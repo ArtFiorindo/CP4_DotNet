@@ -128,3 +128,4 @@
 /Users/arturfiorindo/RiderProjects/BrinquedosApi/BrinquedosApi/obj/Debug/net8.0/BrinquedosApi.pdb
 /Users/arturfiorindo/RiderProjects/BrinquedosApi/BrinquedosApi/obj/Debug/net8.0/BrinquedosApi.genruntimeconfig.cache
 /Users/arturfiorindo/RiderProjects/BrinquedosApi/BrinquedosApi/obj/Debug/net8.0/ref/BrinquedosApi.dll
+/Users/arturfiorindo/RiderProjects/BrinquedosApi/BrinquedosApi/obj/Debug/net8.0/BrinquedosApi.sourcelink.json

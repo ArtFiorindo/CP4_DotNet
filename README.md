@@ -53,7 +53,7 @@ No arquivo `appsettings.json`, verifique se a string de conexão do Oracle está
 
 ```json
 "ConnectionStrings": {
-  "OracleDbConnection": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.fiap.com.br)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=ORCL)));User Id=rm553481;Password=021004;"
+  "OracleDbConnection": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.fiap.com.br)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=ORCL)));User Id=rm000000;Password=******;"
 }
 ```
 
